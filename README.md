@@ -4,7 +4,8 @@
 
 ### Wiring
 
-![img](schema/led_control_esp_bb.png)
+![wiring](_img/led_control_esp_bb.png)
+![pannel](_img/node_red.PNG)
 
 
 ### PinMap
