@@ -5,8 +5,8 @@
 
 //----------------------------------
 //        MQTT CONTROLLER
-const char* ssid = "domo";
-const char* password =  "th1Sp4((!";
+const char* ssid = "WIFI-SSID";
+const char* password =  "WIFI-PASSWORD";
 const char* mqttServer = "192.168.0.101";
 const int mqttPort = 1883;
 String msg;
