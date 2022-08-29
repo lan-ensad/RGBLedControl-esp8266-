@@ -2,9 +2,12 @@
 
 ## Elec
 
+### Wiring
+
+![img](schema/led_control_esp_bb.png)
 
 
-## Wiring 
+### PinMap
 
 |PIN|MAP|SIGNAL|
 |--|--|--|
